@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\HeapsortProject\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+C:\Users\DELL\Desktop\HeapsortProject\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+C:\Users\DELL\Desktop\HeapsortProject\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\DELL\Desktop\HeapsortProject\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+C:\Users\DELL\Desktop\HeapsortProject\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
+C:\Users\DELL\Desktop\HeapsortProject\HeapSort\HeapSort\obj\Debug\HeapSort.csprojResolveAssemblyReference.cache
